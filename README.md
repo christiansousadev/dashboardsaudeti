@@ -110,17 +110,12 @@ npm run dev
   <p><b>Software Engineering | IT Governance | Data Automation</b></p>
   
   <p>
-    <a href="https://linkedin.com/in/seu-perfil">
+    <a href="https://linkedin.com/in/christiansousasilva">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/seu-usuario">
+    <a href="https://github.com/christiansousadev">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Data_Driven_Governance-blueviolet" alt="Focus">
-    <img src="https://img.shields.io/badge/Industry-Fintech_Solutions-black" alt="Industry">
   </p>
 </div>
 
