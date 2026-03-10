@@ -1,8 +1,11 @@
 # 🚀 ITSM Health Dashboard: Visibilidade e Governança de TI
+<img width="1206" height="846" alt="dashboard-hero" src="https://github.com/user-attachments/assets/1c11bbdc-3a1f-4255-8a2f-9c3163e42d1a" />
+
 
 Este projeto consiste em uma plataforma de **Business Intelligence e Data Engineering** voltada para a gestão de serviços de TI (ITSM). O foco principal é fornecer visibilidade em tempo real sobre a saúde da operação, monitorando conformidade de SLA, satisfação do usuário (NPS) e o impacto financeiro (ROI) causado por incidentes críticos.
 
 ## 🛠️ Arquitetura e Fluxo de Dados
+<img width="355" height="282" alt="arquitetura-pastas" src="https://github.com/user-attachments/assets/b7caba6b-eac1-4138-8251-0849de631ee4" />
 
 O ecossistema é modular e segue as melhores práticas de governança, separando a camada de processamento da camada de apresentação:
 
@@ -25,6 +28,7 @@ Este projeto não é apenas um dashboard, mas uma estrutura de **Data-Driven Gov
 
 
 ## 📊 Modelagem de Dados e Governança
+<img width="1903" height="569" alt="banco-metabase" src="https://github.com/user-attachments/assets/0a9fe572-35de-463b-a34e-d905dbaa8edb" />
 
 A inteligência do projeto reside na **Camada Ouro (View SQL)**, que consolida múltiplos relacionamentos para gerar insights automáticos.
 
