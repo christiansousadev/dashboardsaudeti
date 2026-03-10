@@ -1,0 +1,11 @@
+/* frontend/src/index.css */
+
+@import "tailwindcss";
+
+/* reset básico para o dashboard */
+body {
+  margin: 0;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  @apply bg-slate-900 text-slate-100;
+}
