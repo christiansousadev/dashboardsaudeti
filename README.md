@@ -1,4 +1,4 @@
-# 🚀 ITSM Health Dashboard: Visibilidade e Governança de TI
+# 🚀 Dashboard Saúde TI: Visibilidade e Governança de TI
 <img width="1206" height="846" alt="dashboard-hero" src="https://github.com/user-attachments/assets/1c11bbdc-3a1f-4255-8a2f-9c3163e42d1a" />
 
 
