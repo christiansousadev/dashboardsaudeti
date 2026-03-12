@@ -30,7 +30,7 @@ class HealthMetrics(BaseModel):
     sla_cumprido_percent: float
     nps_medio: float
 
-# CONECTA AO POSTGRESQL USANDO AS VARIAVEIS DO .ENV
+# CONECTA AO POSTGRESQL
 def get_db_connection():
     try:
         # garante a porta 5433 como padrao se o env falhar
