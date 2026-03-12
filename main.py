@@ -129,7 +129,8 @@ def get_cost_by_category():
     finally:
         cursor.close()
         conn.close()
-        
+
+#KPI incidentes        
 @app.get("/api/v1/dashboard/incidentes-criticos")
 def get_critical_incidents():
     # LISTA INCIDENTES QUE VIOLARAM O SLA PARA ACAO IMEDIATA
