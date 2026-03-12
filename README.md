@@ -77,7 +77,7 @@ Esta visão analítica automatiza cálculos complexos, como:
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
-pip install fastapi uvicorn psycopg2-binary faker python-dotenv
+pip install -r requirements.txt
 
 ```
 
