@@ -100,6 +100,6 @@ npm run dev
 
 ---
 
-**Christian Sousa** - *Desenvolvedor e Analista de Governança de TI*
+**Christian Sousa** - *Desenvolvedor, Analista de Dados e Analista de Governança de TI*
 
 ---
